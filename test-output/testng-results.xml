@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="25952" started-at="2015-12-08T05:19:25Z" finished-at="2015-12-08T05:19:51Z">
+  <suite name="Suite" duration-ms="24392" started-at="2015-12-08T12:59:02Z" finished-at="2015-12-08T12:59:26Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="25952" started-at="2015-12-08T05:19:25Z" finished-at="2015-12-08T05:19:51Z">
+    <test name="Test" duration-ms="24392" started-at="2015-12-08T12:59:02Z" finished-at="2015-12-08T12:59:26Z">
       <class name="demo.testJenkins">
-        <test-method status="PASS" signature="denojenkinsjobs()[pri:0, instance:demo.testJenkins@6e3c1e69]" name="denojenkinsjobs" duration-ms="25926" started-at="2015-12-08T10:49:25Z" finished-at="2015-12-08T10:49:51Z">
+        <test-method status="PASS" signature="denojenkinsjobs()[pri:0, instance:demo.testJenkins@6e3c1e69]" name="denojenkinsjobs" duration-ms="24277" started-at="2015-12-08T18:29:02Z" finished-at="2015-12-08T18:29:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- denojenkinsjobs -->
