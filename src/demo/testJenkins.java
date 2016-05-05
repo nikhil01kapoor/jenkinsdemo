@@ -9,10 +9,10 @@ public class testJenkins {
 	@Test
 	public void denojenkinsjobs()
 	{
-		System.out.println("Welcome to Jenkins test1");
+		System.out.println("Welcome to Jenkins");
 		
 		WebDriver driver=new FirefoxDriver();
-		driver.get ("https://www.facebook.com");
+		driver.get ("https://www.facebook.com1");
 		System.out.println(driver.getTitle());
 		//driver.close();
 		//driver.quit();
