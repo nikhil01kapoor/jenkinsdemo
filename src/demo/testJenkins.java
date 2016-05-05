@@ -12,7 +12,7 @@ public class testJenkins {
 		System.out.println("Welcome to Jenkins");
 		
 		WebDriver driver=new FirefoxDriver();
-		driver.get ("https://www.facebook.com1");
+		driver.get ("https://www.facebook.comwerwer");
 		System.out.println(driver.getTitle());
 		//driver.close();
 		//driver.quit();
